@@ -1,5 +1,6 @@
 # Mohammed Yassine Aoulad Ahriz — QA Automation & Full‑Stack
-<img width="1196" height="451" alt="readme" src="https://github.com/user-attachments/assets/f1cd1208-8504-42db-9c97-fdf9833a34f7" />
+<img width="1150" height="427" alt="readme b" src="https://github.com/user-attachments/assets/aee08053-a879-4607-95af-12b06a7fa45c" />
+
 
 Website: https://medyassin.netlify.app • GitHub: https://github.com/mohammedyassinAa • Email: yssnmed@gmail.com
 
