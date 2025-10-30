@@ -117,4 +117,4 @@ Notes
 This README is a profile summary and a single point of entry to my public projects. For detailed setup and usage, please consult the README of each repository linked above.
 
 ---
-Made with :heart: — Mohammed Yassine Aoulad Ahriz (mohammedyassinAa)
+Mohammed Yassine Aoulad Ahriz (mohammedyassinAa)
