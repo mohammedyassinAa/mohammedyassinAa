@@ -2,7 +2,7 @@
 <img width="1150" height="427" alt="readme b" src="https://github.com/user-attachments/assets/aee08053-a879-4607-95af-12b06a7fa45c" />
 
 
-Website: https://medyassin.netlify.app • GitHub: https://github.com/mohammedyassinAa • Email: yssnmed@gmail.com
+Website: https://medyassin.netlify.app • Email: yssnmed@gmail.com
 
 Final‑year Engineering student (EMSI Tanger) — available for PFE from 01 Feb 2026 (6 months). Specialties: Test automation (Playwright, Selenium), BDD (Cucumber), POM, CI/CD, JavaScript/TypeScript, Java.
 
